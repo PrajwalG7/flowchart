@@ -6,4 +6,4 @@ Welcome to our cool space for building interactive diagrams using the power of R
 
 - **Node-Based Interaction:** Create, connect, and customize nodes to build intricate diagrams effortlessly.
 - **Interactive Flow:** Enjoy a smooth and interactive flow while designing your diagrams with React Flow.
-- **Desktop Optimized:** For the best user experience, we recommend using the desktop version of our application.
+- **Desktop Optimized:** For the best user experience, I recommend using the desktop version of the application.
