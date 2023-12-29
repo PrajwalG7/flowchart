@@ -1,6 +1,6 @@
 # Node-Based React Application with React Flow
 
-Welcome to our cool space for building interactive diagrams using the power of React Flow! If you're a fan of creating node-based systems and dynamic visualizations, you're in the right place. To fully enjoy the experience, I recommend visiting the desktop site for the best user interface.
+Welcome to the cool space for building interactive diagrams using the power of React Flow! If you're a fan of creating node-based systems and dynamic visualizations, you're in the right place. To fully enjoy the experience, I recommend visiting the desktop site for the best user interface.
 
 ## Features
 
